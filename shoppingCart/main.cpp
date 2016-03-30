@@ -48,3 +48,5 @@ int main()
     cout << "The cost of your two items is " << z << endl;
     return 0;
 }
+
+//Test case repository
